@@ -27,10 +27,10 @@
             "archived": false,
             "id": 320463703,
             "language": "Rust",
-            "last_commit": "2026-08-19T07:45:55Z",
+            "last_commit": "2026-08-20T01:00:32Z",
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3759
+            "stars": 3761
           }
         },
         {
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:13:12.030Z",
+    "last_updated": "2026-08-20T05:15:32.464Z",
     "original_repository": "secretGeek/AwesomeCSV",
     "original_repository_id": 152835793,
     "original_repository_sha": "adff7b0766abe06c9987cf4703b3918ce5bb9074",
