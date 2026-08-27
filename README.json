@@ -27,10 +27,10 @@
             "archived": false,
             "id": 320463703,
             "language": "Rust",
-            "last_commit": "2026-08-27T10:18:34Z",
+            "last_commit": "2026-08-27T12:57:18Z",
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3767
+            "stars": 3768
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-12-03T03:05:48Z",
             "owner": "microsoft",
             "repo": "vscode-data-wrangler",
-            "stars": 607
+            "stars": 608
           }
         },
         {
@@ -255,10 +255,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-26T21:15:40Z",
+            "last_commit": "2026-08-27T15:31:40Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78669
+            "stars": 78675
           }
         }
       ],
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:26:12.630Z",
+    "last_updated": "2026-08-27T15:32:13.607Z",
     "original_repository_info": {
       "archived": false,
       "id": 152835793,
