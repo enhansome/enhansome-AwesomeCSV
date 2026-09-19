@@ -47,7 +47,7 @@
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T06:04:44Z",
+            "last_commit": "2026-09-18T14:59:08Z",
             "open_issues": 34,
             "owner": "dathere",
             "repo": "qsv",
@@ -396,11 +396,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-17T20:23:43Z",
+            "last_commit": "2026-09-18T21:12:31Z",
             "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79014,
+            "stars": 79035,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:13:29.733Z",
+    "last_updated": "2026-09-19T08:59:34.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
