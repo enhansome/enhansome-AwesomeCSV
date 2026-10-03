@@ -51,7 +51,7 @@
             "open_issues": 33,
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3800,
+            "stars": 3801,
             "topics": [
               "ai",
               "ckan",
@@ -400,7 +400,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79277,
+            "stars": 79281,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:27:17.255Z",
+    "last_updated": "2026-10-03T10:03:56.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
