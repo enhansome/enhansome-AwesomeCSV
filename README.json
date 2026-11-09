@@ -47,7 +47,7 @@
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T19:39:22Z",
+            "last_commit": "2026-11-09T13:07:45Z",
             "open_issues": 25,
             "owner": "dathere",
             "repo": "qsv",
@@ -93,7 +93,7 @@
             "open_issues": 34,
             "owner": "wiseio",
             "repo": "paratext",
-            "stars": 1052,
+            "stars": 1051,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:11.640Z"
@@ -160,7 +160,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-12-03T03:05:48Z",
-            "open_issues": 274,
+            "open_issues": 275,
             "owner": "microsoft",
             "repo": "vscode-data-wrangler",
             "stars": 615,
@@ -396,11 +396,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-07T15:44:21Z",
+            "last_commit": "2026-11-08T16:03:30Z",
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79979,
+            "stars": 79993,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -459,7 +459,7 @@
             "open_issues": 9,
             "owner": "dbohdan",
             "repo": "structured-text-tools",
-            "stars": 7146,
+            "stars": 7148,
             "topics": [
               "awk",
               "cli",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:32:33.746Z",
+    "last_updated": "2026-11-09T13:24:05.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
@@ -495,7 +495,7 @@
       "language": "PowerShell",
       "license": "CC0-1.0",
       "last_commit": "2026-06-11T02:43:51Z",
-      "open_issues": 56,
+      "open_issues": 57,
       "owner": "secretGeek",
       "repo": "AwesomeCSV",
       "stars": 959,
