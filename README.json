@@ -47,11 +47,11 @@
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T02:21:23Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-12T12:24:13Z",
+            "open_issues": 21,
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3826,
+            "stars": 3835,
             "topics": [
               "ai",
               "ckan",
@@ -364,7 +364,7 @@
                 "open_issues": 7,
                 "owner": "vividvilla",
                 "repo": "csvtotable",
-                "stars": 1186,
+                "stars": 1187,
                 "topics": [
                   "cli",
                   "data-visualization",
@@ -396,11 +396,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-10T21:44:04Z",
+            "last_commit": "2026-11-11T17:15:09Z",
             "open_issues": 169,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 80028,
+            "stars": 80065,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:12:08.092Z",
+    "last_updated": "2026-11-12T13:17:36.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
